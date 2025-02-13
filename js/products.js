@@ -23,7 +23,7 @@ const ProductsModule = {
                     name: "Smartphone",
                     description: "Latest smartphone with advanced camera features",
                     price: 599.99,
-                    image: "assets/Latest smartphone with advanced camera features.jpg.jpg"
+                    image: "assets/Latest smartphone with advanced camera features.jpg"
                 },
                 {
                     id: 3,
